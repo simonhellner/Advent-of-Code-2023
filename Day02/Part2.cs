@@ -1,10 +1,9 @@
-﻿namespace Day02
-{
-    public static class Part2
-    {
-        public static void Part2Main()
-        {
+﻿namespace Day02;
 
-        }
+public static class Part2
+{
+    public static void Part2Main()
+    {
+
     }
 }
